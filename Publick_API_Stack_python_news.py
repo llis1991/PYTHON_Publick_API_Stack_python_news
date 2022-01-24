@@ -3,17 +3,7 @@ import json
 import pprint
 import webbrowser
 import datetime
-#timedelta datatime
-'''
 
-API -Aplication Programing Interface
-
-min 15 pkt
-posortowane malejąco
-z ostatniego tygodnia
-kategoria python
-
-'''
 
 timeToday = datetime.datetime.today()
 timeBefore = datetime.timedelta(days = 7)
